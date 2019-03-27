@@ -1,0 +1,2610 @@
+
+***********************************************************************************************
+
+***********************************************************************************************
+ No of Tiers=2	 Relaxation Percentage=0.050000
+ Avg area for each tier=89750.500000
+ Max area for each tier=94238.025067
+ Min area for each tier=85262.974933
+Time Taken to execute Initial Partition:0.022000
+After Initial Partition Total Number of MIV=620
+Time Taken to execute Compromized FM:0.047000
+
+
+
+ Block 0 placed at=0
+ Block 1 placed at=0
+ Block 2 placed at=0
+ Block 3 placed at=0
+ Block 4 placed at=0
+ Block 5 placed at=0
+ Block 6 placed at=1
+ Block 7 placed at=1
+ Block 8 placed at=0
+ Block 9 placed at=1
+ Block 10 placed at=0
+ Block 11 placed at=0
+ Block 12 placed at=1
+ Block 13 placed at=1
+ Block 14 placed at=0
+ Block 15 placed at=1
+ Block 16 placed at=1
+ Block 17 placed at=0
+ Block 18 placed at=1
+ Block 19 placed at=0
+ Block 20 placed at=0
+ Block 21 placed at=1
+ Block 22 placed at=1
+ Block 23 placed at=1
+ Block 24 placed at=0
+ Block 25 placed at=1
+ Block 26 placed at=1
+ Block 27 placed at=0
+ Block 28 placed at=1
+ Block 29 placed at=0
+ Block 30 placed at=0
+ Block 31 placed at=1
+ Block 32 placed at=0
+ Block 33 placed at=0
+ Block 34 placed at=1
+ Block 35 placed at=0
+ Block 36 placed at=0
+ Block 37 placed at=0
+ Block 38 placed at=1
+ Block 39 placed at=1
+ Block 40 placed at=1
+ Block 41 placed at=0
+ Block 42 placed at=0
+ Block 43 placed at=1
+ Block 44 placed at=1
+ Block 45 placed at=0
+ Block 46 placed at=0
+ Block 47 placed at=1
+ Block 48 placed at=1
+ Block 49 placed at=1
+ Block 50 placed at=1
+ Block 51 placed at=0
+ Block 52 placed at=1
+ Block 53 placed at=1
+ Block 54 placed at=0
+ Block 55 placed at=0
+ Block 56 placed at=1
+ Block 57 placed at=0
+ Block 58 placed at=1
+ Block 59 placed at=0
+ Block 60 placed at=0
+ Block 61 placed at=0
+ Block 62 placed at=1
+ Block 63 placed at=0
+ Block 64 placed at=1
+ Block 65 placed at=1
+ Block 66 placed at=0
+ Block 67 placed at=1
+ Block 68 placed at=1
+ Block 69 placed at=0
+ Block 70 placed at=1
+ Block 71 placed at=1
+ Block 72 placed at=1
+ Block 73 placed at=1
+ Block 74 placed at=0
+ Block 75 placed at=0
+ Block 76 placed at=0
+ Block 77 placed at=0
+ Block 78 placed at=1
+ Block 79 placed at=1
+ Block 80 placed at=1
+ Block 81 placed at=0
+ Block 82 placed at=0
+ Block 83 placed at=1
+ Block 84 placed at=1
+ Block 85 placed at=1
+ Block 86 placed at=1
+ Block 87 placed at=1
+ Block 88 placed at=1
+ Block 89 placed at=0
+ Block 90 placed at=1
+ Block 91 placed at=1
+ Block 92 placed at=1
+ Block 93 placed at=0
+ Block 94 placed at=0
+ Block 95 placed at=0
+ Block 96 placed at=0
+ Block 97 placed at=0
+ Block 98 placed at=1
+ Block 99 placed at=0
+
+
+
+At End Total Number of MIV after Compromised FM=616
+
+ Total Area of all the blocks =179501.000000
+
+ Divergence of tier area from avg area=-0.040083
+ Divergence of tier area from avg area=0.040083
+
+Total area of tiers=179501.000000
+
+
+ TWL Calculated After Compromised FM by COST_LOG=14831940.000000
+
+
+ TWL Calculated After Compromised FM =14831940.000000
+
+***********************************************************************************************
+
+***********************************************************************************************
+ No of Tiers=2	 Relaxation Percentage=0.100000
+ Avg area for each tier=89750.500000
+ Max area for each tier=98725.550134
+ Min area for each tier=80775.449866
+Time Taken to execute Initial Partition:0.022000
+After Initial Partition Total Number of MIV=620
+Time Taken to execute Compromized FM:0.037000
+
+
+
+ Block 0 placed at=0
+ Block 1 placed at=0
+ Block 2 placed at=0
+ Block 3 placed at=0
+ Block 4 placed at=0
+ Block 5 placed at=0
+ Block 6 placed at=1
+ Block 7 placed at=1
+ Block 8 placed at=0
+ Block 9 placed at=1
+ Block 10 placed at=0
+ Block 11 placed at=0
+ Block 12 placed at=1
+ Block 13 placed at=1
+ Block 14 placed at=0
+ Block 15 placed at=1
+ Block 16 placed at=1
+ Block 17 placed at=0
+ Block 18 placed at=1
+ Block 19 placed at=0
+ Block 20 placed at=0
+ Block 21 placed at=1
+ Block 22 placed at=1
+ Block 23 placed at=1
+ Block 24 placed at=0
+ Block 25 placed at=1
+ Block 26 placed at=1
+ Block 27 placed at=0
+ Block 28 placed at=1
+ Block 29 placed at=0
+ Block 30 placed at=0
+ Block 31 placed at=1
+ Block 32 placed at=0
+ Block 33 placed at=0
+ Block 34 placed at=1
+ Block 35 placed at=0
+ Block 36 placed at=0
+ Block 37 placed at=0
+ Block 38 placed at=1
+ Block 39 placed at=1
+ Block 40 placed at=1
+ Block 41 placed at=0
+ Block 42 placed at=0
+ Block 43 placed at=1
+ Block 44 placed at=1
+ Block 45 placed at=0
+ Block 46 placed at=0
+ Block 47 placed at=1
+ Block 48 placed at=1
+ Block 49 placed at=1
+ Block 50 placed at=1
+ Block 51 placed at=0
+ Block 52 placed at=1
+ Block 53 placed at=1
+ Block 54 placed at=0
+ Block 55 placed at=0
+ Block 56 placed at=1
+ Block 57 placed at=0
+ Block 58 placed at=1
+ Block 59 placed at=0
+ Block 60 placed at=0
+ Block 61 placed at=0
+ Block 62 placed at=1
+ Block 63 placed at=0
+ Block 64 placed at=1
+ Block 65 placed at=1
+ Block 66 placed at=0
+ Block 67 placed at=1
+ Block 68 placed at=1
+ Block 69 placed at=0
+ Block 70 placed at=1
+ Block 71 placed at=1
+ Block 72 placed at=1
+ Block 73 placed at=1
+ Block 74 placed at=0
+ Block 75 placed at=0
+ Block 76 placed at=0
+ Block 77 placed at=0
+ Block 78 placed at=1
+ Block 79 placed at=1
+ Block 80 placed at=1
+ Block 81 placed at=0
+ Block 82 placed at=0
+ Block 83 placed at=1
+ Block 84 placed at=1
+ Block 85 placed at=1
+ Block 86 placed at=1
+ Block 87 placed at=1
+ Block 88 placed at=1
+ Block 89 placed at=0
+ Block 90 placed at=1
+ Block 91 placed at=1
+ Block 92 placed at=1
+ Block 93 placed at=0
+ Block 94 placed at=0
+ Block 95 placed at=1
+ Block 96 placed at=0
+ Block 97 placed at=0
+ Block 98 placed at=1
+ Block 99 placed at=0
+
+
+
+At End Total Number of MIV after Compromised FM=620
+
+ Total Area of all the blocks =179501.000000
+
+ Divergence of tier area from avg area=-0.050880
+ Divergence of tier area from avg area=0.050880
+
+Total area of tiers=179501.000000
+
+
+ TWL Calculated After Compromised FM by COST_LOG=14878420.000000
+
+
+ TWL Calculated After Compromised FM =14878420.000000
+
+***********************************************************************************************
+
+***********************************************************************************************
+ No of Tiers=2	 Relaxation Percentage=0.150000
+ Avg area for each tier=89750.500000
+ Max area for each tier=103213.075535
+ Min area for each tier=76287.924465
+Time Taken to execute Initial Partition:0.021000
+After Initial Partition Total Number of MIV=620
+Time Taken to execute Compromized FM:0.032000
+
+
+
+ Block 0 placed at=0
+ Block 1 placed at=0
+ Block 2 placed at=0
+ Block 3 placed at=0
+ Block 4 placed at=0
+ Block 5 placed at=0
+ Block 6 placed at=1
+ Block 7 placed at=1
+ Block 8 placed at=0
+ Block 9 placed at=1
+ Block 10 placed at=0
+ Block 11 placed at=0
+ Block 12 placed at=1
+ Block 13 placed at=1
+ Block 14 placed at=0
+ Block 15 placed at=1
+ Block 16 placed at=1
+ Block 17 placed at=0
+ Block 18 placed at=1
+ Block 19 placed at=0
+ Block 20 placed at=0
+ Block 21 placed at=1
+ Block 22 placed at=1
+ Block 23 placed at=1
+ Block 24 placed at=0
+ Block 25 placed at=1
+ Block 26 placed at=1
+ Block 27 placed at=0
+ Block 28 placed at=1
+ Block 29 placed at=0
+ Block 30 placed at=0
+ Block 31 placed at=1
+ Block 32 placed at=0
+ Block 33 placed at=0
+ Block 34 placed at=1
+ Block 35 placed at=0
+ Block 36 placed at=0
+ Block 37 placed at=0
+ Block 38 placed at=1
+ Block 39 placed at=1
+ Block 40 placed at=1
+ Block 41 placed at=0
+ Block 42 placed at=0
+ Block 43 placed at=1
+ Block 44 placed at=1
+ Block 45 placed at=0
+ Block 46 placed at=0
+ Block 47 placed at=1
+ Block 48 placed at=1
+ Block 49 placed at=1
+ Block 50 placed at=1
+ Block 51 placed at=0
+ Block 52 placed at=1
+ Block 53 placed at=1
+ Block 54 placed at=0
+ Block 55 placed at=0
+ Block 56 placed at=1
+ Block 57 placed at=0
+ Block 58 placed at=1
+ Block 59 placed at=0
+ Block 60 placed at=0
+ Block 61 placed at=0
+ Block 62 placed at=1
+ Block 63 placed at=0
+ Block 64 placed at=1
+ Block 65 placed at=1
+ Block 66 placed at=0
+ Block 67 placed at=1
+ Block 68 placed at=1
+ Block 69 placed at=0
+ Block 70 placed at=1
+ Block 71 placed at=1
+ Block 72 placed at=1
+ Block 73 placed at=1
+ Block 74 placed at=0
+ Block 75 placed at=0
+ Block 76 placed at=0
+ Block 77 placed at=0
+ Block 78 placed at=1
+ Block 79 placed at=1
+ Block 80 placed at=1
+ Block 81 placed at=0
+ Block 82 placed at=0
+ Block 83 placed at=1
+ Block 84 placed at=1
+ Block 85 placed at=1
+ Block 86 placed at=1
+ Block 87 placed at=1
+ Block 88 placed at=1
+ Block 89 placed at=0
+ Block 90 placed at=1
+ Block 91 placed at=1
+ Block 92 placed at=1
+ Block 93 placed at=0
+ Block 94 placed at=0
+ Block 95 placed at=1
+ Block 96 placed at=0
+ Block 97 placed at=0
+ Block 98 placed at=1
+ Block 99 placed at=0
+
+
+
+At End Total Number of MIV after Compromised FM=620
+
+ Total Area of all the blocks =179501.000000
+
+ Divergence of tier area from avg area=-0.050880
+ Divergence of tier area from avg area=0.050880
+
+Total area of tiers=179501.000000
+
+
+ TWL Calculated After Compromised FM by COST_LOG=14878420.000000
+
+
+ TWL Calculated After Compromised FM =14878420.000000
+
+***********************************************************************************************
+
+***********************************************************************************************
+ No of Tiers=2	 Relaxation Percentage=0.200000
+ Avg area for each tier=89750.500000
+ Max area for each tier=107700.600267
+ Min area for each tier=71800.399733
+Time Taken to execute Initial Partition:0.022000
+After Initial Partition Total Number of MIV=620
+Time Taken to execute Compromized FM:0.034000
+
+
+
+ Block 0 placed at=0
+ Block 1 placed at=0
+ Block 2 placed at=0
+ Block 3 placed at=0
+ Block 4 placed at=0
+ Block 5 placed at=0
+ Block 6 placed at=1
+ Block 7 placed at=1
+ Block 8 placed at=0
+ Block 9 placed at=1
+ Block 10 placed at=0
+ Block 11 placed at=0
+ Block 12 placed at=1
+ Block 13 placed at=1
+ Block 14 placed at=0
+ Block 15 placed at=1
+ Block 16 placed at=1
+ Block 17 placed at=0
+ Block 18 placed at=1
+ Block 19 placed at=0
+ Block 20 placed at=0
+ Block 21 placed at=1
+ Block 22 placed at=1
+ Block 23 placed at=1
+ Block 24 placed at=0
+ Block 25 placed at=1
+ Block 26 placed at=1
+ Block 27 placed at=0
+ Block 28 placed at=1
+ Block 29 placed at=0
+ Block 30 placed at=0
+ Block 31 placed at=1
+ Block 32 placed at=0
+ Block 33 placed at=0
+ Block 34 placed at=1
+ Block 35 placed at=0
+ Block 36 placed at=0
+ Block 37 placed at=0
+ Block 38 placed at=1
+ Block 39 placed at=1
+ Block 40 placed at=1
+ Block 41 placed at=0
+ Block 42 placed at=0
+ Block 43 placed at=1
+ Block 44 placed at=1
+ Block 45 placed at=0
+ Block 46 placed at=0
+ Block 47 placed at=1
+ Block 48 placed at=1
+ Block 49 placed at=1
+ Block 50 placed at=1
+ Block 51 placed at=0
+ Block 52 placed at=1
+ Block 53 placed at=1
+ Block 54 placed at=0
+ Block 55 placed at=0
+ Block 56 placed at=1
+ Block 57 placed at=0
+ Block 58 placed at=1
+ Block 59 placed at=0
+ Block 60 placed at=0
+ Block 61 placed at=0
+ Block 62 placed at=1
+ Block 63 placed at=0
+ Block 64 placed at=1
+ Block 65 placed at=1
+ Block 66 placed at=0
+ Block 67 placed at=1
+ Block 68 placed at=1
+ Block 69 placed at=0
+ Block 70 placed at=1
+ Block 71 placed at=1
+ Block 72 placed at=1
+ Block 73 placed at=1
+ Block 74 placed at=0
+ Block 75 placed at=0
+ Block 76 placed at=0
+ Block 77 placed at=0
+ Block 78 placed at=1
+ Block 79 placed at=1
+ Block 80 placed at=1
+ Block 81 placed at=0
+ Block 82 placed at=0
+ Block 83 placed at=1
+ Block 84 placed at=1
+ Block 85 placed at=1
+ Block 86 placed at=1
+ Block 87 placed at=1
+ Block 88 placed at=1
+ Block 89 placed at=0
+ Block 90 placed at=1
+ Block 91 placed at=1
+ Block 92 placed at=1
+ Block 93 placed at=0
+ Block 94 placed at=0
+ Block 95 placed at=1
+ Block 96 placed at=0
+ Block 97 placed at=0
+ Block 98 placed at=1
+ Block 99 placed at=0
+
+
+
+At End Total Number of MIV after Compromised FM=620
+
+ Total Area of all the blocks =179501.000000
+
+ Divergence of tier area from avg area=-0.050880
+ Divergence of tier area from avg area=0.050880
+
+Total area of tiers=179501.000000
+
+
+ TWL Calculated After Compromised FM by COST_LOG=14878420.000000
+
+
+ TWL Calculated After Compromised FM =14878420.000000
+
+***********************************************************************************************
+
+***********************************************************************************************
+ No of Tiers=2	 Relaxation Percentage=0.250000
+ Avg area for each tier=89750.500000
+ Max area for each tier=112188.125000
+ Min area for each tier=67312.875000
+Time Taken to execute Initial Partition:0.025000
+After Initial Partition Total Number of MIV=620
+Time Taken to execute Compromized FM:0.039000
+
+
+
+ Block 0 placed at=0
+ Block 1 placed at=0
+ Block 2 placed at=0
+ Block 3 placed at=0
+ Block 4 placed at=0
+ Block 5 placed at=0
+ Block 6 placed at=1
+ Block 7 placed at=1
+ Block 8 placed at=0
+ Block 9 placed at=1
+ Block 10 placed at=0
+ Block 11 placed at=0
+ Block 12 placed at=1
+ Block 13 placed at=1
+ Block 14 placed at=0
+ Block 15 placed at=1
+ Block 16 placed at=1
+ Block 17 placed at=0
+ Block 18 placed at=1
+ Block 19 placed at=0
+ Block 20 placed at=0
+ Block 21 placed at=1
+ Block 22 placed at=1
+ Block 23 placed at=1
+ Block 24 placed at=0
+ Block 25 placed at=1
+ Block 26 placed at=1
+ Block 27 placed at=0
+ Block 28 placed at=1
+ Block 29 placed at=0
+ Block 30 placed at=0
+ Block 31 placed at=1
+ Block 32 placed at=0
+ Block 33 placed at=0
+ Block 34 placed at=1
+ Block 35 placed at=0
+ Block 36 placed at=0
+ Block 37 placed at=0
+ Block 38 placed at=1
+ Block 39 placed at=1
+ Block 40 placed at=1
+ Block 41 placed at=0
+ Block 42 placed at=0
+ Block 43 placed at=1
+ Block 44 placed at=1
+ Block 45 placed at=0
+ Block 46 placed at=0
+ Block 47 placed at=1
+ Block 48 placed at=1
+ Block 49 placed at=1
+ Block 50 placed at=1
+ Block 51 placed at=0
+ Block 52 placed at=1
+ Block 53 placed at=1
+ Block 54 placed at=0
+ Block 55 placed at=0
+ Block 56 placed at=1
+ Block 57 placed at=0
+ Block 58 placed at=1
+ Block 59 placed at=0
+ Block 60 placed at=0
+ Block 61 placed at=0
+ Block 62 placed at=1
+ Block 63 placed at=0
+ Block 64 placed at=1
+ Block 65 placed at=1
+ Block 66 placed at=0
+ Block 67 placed at=1
+ Block 68 placed at=1
+ Block 69 placed at=0
+ Block 70 placed at=1
+ Block 71 placed at=1
+ Block 72 placed at=1
+ Block 73 placed at=1
+ Block 74 placed at=0
+ Block 75 placed at=0
+ Block 76 placed at=0
+ Block 77 placed at=0
+ Block 78 placed at=1
+ Block 79 placed at=1
+ Block 80 placed at=1
+ Block 81 placed at=0
+ Block 82 placed at=0
+ Block 83 placed at=1
+ Block 84 placed at=1
+ Block 85 placed at=1
+ Block 86 placed at=1
+ Block 87 placed at=1
+ Block 88 placed at=1
+ Block 89 placed at=0
+ Block 90 placed at=1
+ Block 91 placed at=1
+ Block 92 placed at=1
+ Block 93 placed at=0
+ Block 94 placed at=0
+ Block 95 placed at=1
+ Block 96 placed at=0
+ Block 97 placed at=0
+ Block 98 placed at=1
+ Block 99 placed at=0
+
+
+
+At End Total Number of MIV after Compromised FM=620
+
+ Total Area of all the blocks =179501.000000
+
+ Divergence of tier area from avg area=-0.050880
+ Divergence of tier area from avg area=0.050880
+
+Total area of tiers=179501.000000
+
+
+ TWL Calculated After Compromised FM by COST_LOG=14878420.000000
+
+
+ TWL Calculated After Compromised FM =14878420.000000
+
+***********************************************************************************************
+
+***********************************************************************************************
+ No of Tiers=3	 Relaxation Percentage=0.050000
+ Avg area for each tier=59833.666667
+ Max area for each tier=62825.350045
+ Min area for each tier=56841.983289
+Time Taken to execute Initial Partition:0.021000
+After Initial Partition Total Number of MIV=1075
+Time Taken to execute Compromized FM:0.060000
+
+
+
+ Block 0 placed at=0
+ Block 1 placed at=0
+ Block 2 placed at=0
+ Block 3 placed at=0
+ Block 4 placed at=0
+ Block 5 placed at=0
+ Block 6 placed at=0
+ Block 7 placed at=1
+ Block 8 placed at=0
+ Block 9 placed at=2
+ Block 10 placed at=0
+ Block 11 placed at=2
+ Block 12 placed at=2
+ Block 13 placed at=2
+ Block 14 placed at=1
+ Block 15 placed at=1
+ Block 16 placed at=0
+ Block 17 placed at=0
+ Block 18 placed at=2
+ Block 19 placed at=1
+ Block 20 placed at=0
+ Block 21 placed at=2
+ Block 22 placed at=1
+ Block 23 placed at=2
+ Block 24 placed at=0
+ Block 25 placed at=0
+ Block 26 placed at=0
+ Block 27 placed at=1
+ Block 28 placed at=0
+ Block 29 placed at=0
+ Block 30 placed at=0
+ Block 31 placed at=1
+ Block 32 placed at=0
+ Block 33 placed at=1
+ Block 34 placed at=2
+ Block 35 placed at=2
+ Block 36 placed at=1
+ Block 37 placed at=0
+ Block 38 placed at=2
+ Block 39 placed at=1
+ Block 40 placed at=1
+ Block 41 placed at=0
+ Block 42 placed at=0
+ Block 43 placed at=2
+ Block 44 placed at=2
+ Block 45 placed at=1
+ Block 46 placed at=2
+ Block 47 placed at=1
+ Block 48 placed at=2
+ Block 49 placed at=2
+ Block 50 placed at=2
+ Block 51 placed at=0
+ Block 52 placed at=1
+ Block 53 placed at=1
+ Block 54 placed at=0
+ Block 55 placed at=1
+ Block 56 placed at=0
+ Block 57 placed at=2
+ Block 58 placed at=2
+ Block 59 placed at=2
+ Block 60 placed at=0
+ Block 61 placed at=1
+ Block 62 placed at=0
+ Block 63 placed at=2
+ Block 64 placed at=2
+ Block 65 placed at=1
+ Block 66 placed at=1
+ Block 67 placed at=2
+ Block 68 placed at=1
+ Block 69 placed at=1
+ Block 70 placed at=0
+ Block 71 placed at=2
+ Block 72 placed at=1
+ Block 73 placed at=1
+ Block 74 placed at=0
+ Block 75 placed at=0
+ Block 76 placed at=1
+ Block 77 placed at=2
+ Block 78 placed at=1
+ Block 79 placed at=2
+ Block 80 placed at=1
+ Block 81 placed at=0
+ Block 82 placed at=1
+ Block 83 placed at=0
+ Block 84 placed at=0
+ Block 85 placed at=2
+ Block 86 placed at=2
+ Block 87 placed at=2
+ Block 88 placed at=2
+ Block 89 placed at=2
+ Block 90 placed at=2
+ Block 91 placed at=2
+ Block 92 placed at=0
+ Block 93 placed at=0
+ Block 94 placed at=1
+ Block 95 placed at=1
+ Block 96 placed at=1
+ Block 97 placed at=1
+ Block 98 placed at=2
+ Block 99 placed at=0
+
+
+
+At End Total Number of MIV after Compromised FM=1088
+
+ Total Area of all the blocks =179501.000000
+
+ Divergence of tier area from avg area=-0.018245
+ Divergence of tier area from avg area=0.019576
+ Divergence of tier area from avg area=-0.001331
+
+Total area of tiers=179501.000000
+
+
+ TWL Calculated After Compromised FM by COST_LOG=12844680.000000
+
+
+ TWL Calculated After Compromised FM =12844680.000000
+
+***********************************************************************************************
+
+***********************************************************************************************
+ No of Tiers=3	 Relaxation Percentage=0.100000
+ Avg area for each tier=59833.666667
+ Max area for each tier=65817.033422
+ Min area for each tier=53850.299911
+Time Taken to execute Initial Partition:0.021000
+After Initial Partition Total Number of MIV=1075
+Time Taken to execute Compromized FM:0.044000
+
+
+
+ Block 0 placed at=0
+ Block 1 placed at=0
+ Block 2 placed at=0
+ Block 3 placed at=0
+ Block 4 placed at=0
+ Block 5 placed at=0
+ Block 6 placed at=0
+ Block 7 placed at=1
+ Block 8 placed at=0
+ Block 9 placed at=2
+ Block 10 placed at=0
+ Block 11 placed at=2
+ Block 12 placed at=2
+ Block 13 placed at=2
+ Block 14 placed at=1
+ Block 15 placed at=1
+ Block 16 placed at=0
+ Block 17 placed at=0
+ Block 18 placed at=2
+ Block 19 placed at=1
+ Block 20 placed at=0
+ Block 21 placed at=2
+ Block 22 placed at=1
+ Block 23 placed at=2
+ Block 24 placed at=0
+ Block 25 placed at=0
+ Block 26 placed at=0
+ Block 27 placed at=1
+ Block 28 placed at=0
+ Block 29 placed at=0
+ Block 30 placed at=0
+ Block 31 placed at=1
+ Block 32 placed at=0
+ Block 33 placed at=1
+ Block 34 placed at=2
+ Block 35 placed at=2
+ Block 36 placed at=1
+ Block 37 placed at=0
+ Block 38 placed at=2
+ Block 39 placed at=1
+ Block 40 placed at=1
+ Block 41 placed at=0
+ Block 42 placed at=0
+ Block 43 placed at=2
+ Block 44 placed at=2
+ Block 45 placed at=1
+ Block 46 placed at=2
+ Block 47 placed at=1
+ Block 48 placed at=2
+ Block 49 placed at=2
+ Block 50 placed at=2
+ Block 51 placed at=0
+ Block 52 placed at=1
+ Block 53 placed at=1
+ Block 54 placed at=0
+ Block 55 placed at=1
+ Block 56 placed at=0
+ Block 57 placed at=2
+ Block 58 placed at=2
+ Block 59 placed at=1
+ Block 60 placed at=0
+ Block 61 placed at=1
+ Block 62 placed at=0
+ Block 63 placed at=2
+ Block 64 placed at=2
+ Block 65 placed at=1
+ Block 66 placed at=1
+ Block 67 placed at=2
+ Block 68 placed at=1
+ Block 69 placed at=1
+ Block 70 placed at=0
+ Block 71 placed at=2
+ Block 72 placed at=1
+ Block 73 placed at=1
+ Block 74 placed at=0
+ Block 75 placed at=0
+ Block 76 placed at=1
+ Block 77 placed at=2
+ Block 78 placed at=1
+ Block 79 placed at=1
+ Block 80 placed at=1
+ Block 81 placed at=0
+ Block 82 placed at=1
+ Block 83 placed at=0
+ Block 84 placed at=0
+ Block 85 placed at=2
+ Block 86 placed at=2
+ Block 87 placed at=2
+ Block 88 placed at=2
+ Block 89 placed at=2
+ Block 90 placed at=2
+ Block 91 placed at=2
+ Block 92 placed at=0
+ Block 93 placed at=0
+ Block 94 placed at=1
+ Block 95 placed at=1
+ Block 96 placed at=1
+ Block 97 placed at=1
+ Block 98 placed at=2
+ Block 99 placed at=0
+
+
+
+At End Total Number of MIV after Compromised FM=1075
+
+ Total Area of all the blocks =179501.000000
+
+ Divergence of tier area from avg area=-0.018245
+ Divergence of tier area from avg area=0.091610
+ Divergence of tier area from avg area=-0.073364
+
+Total area of tiers=179501.000000
+
+
+ TWL Calculated After Compromised FM by COST_LOG=12891770.000000
+
+
+ TWL Calculated After Compromised FM =12891770.000000
+
+***********************************************************************************************
+
+***********************************************************************************************
+ No of Tiers=3	 Relaxation Percentage=0.150000
+ Avg area for each tier=59833.666667
+ Max area for each tier=68808.717023
+ Min area for each tier=50858.616310
+Time Taken to execute Initial Partition:0.022000
+After Initial Partition Total Number of MIV=1075
+Time Taken to execute Compromized FM:0.045000
+
+
+
+ Block 0 placed at=0
+ Block 1 placed at=0
+ Block 2 placed at=0
+ Block 3 placed at=0
+ Block 4 placed at=0
+ Block 5 placed at=0
+ Block 6 placed at=0
+ Block 7 placed at=1
+ Block 8 placed at=0
+ Block 9 placed at=2
+ Block 10 placed at=0
+ Block 11 placed at=2
+ Block 12 placed at=2
+ Block 13 placed at=2
+ Block 14 placed at=1
+ Block 15 placed at=1
+ Block 16 placed at=0
+ Block 17 placed at=0
+ Block 18 placed at=2
+ Block 19 placed at=1
+ Block 20 placed at=0
+ Block 21 placed at=2
+ Block 22 placed at=1
+ Block 23 placed at=2
+ Block 24 placed at=0
+ Block 25 placed at=0
+ Block 26 placed at=0
+ Block 27 placed at=1
+ Block 28 placed at=0
+ Block 29 placed at=0
+ Block 30 placed at=0
+ Block 31 placed at=1
+ Block 32 placed at=0
+ Block 33 placed at=1
+ Block 34 placed at=2
+ Block 35 placed at=2
+ Block 36 placed at=1
+ Block 37 placed at=0
+ Block 38 placed at=2
+ Block 39 placed at=1
+ Block 40 placed at=1
+ Block 41 placed at=0
+ Block 42 placed at=0
+ Block 43 placed at=2
+ Block 44 placed at=2
+ Block 45 placed at=1
+ Block 46 placed at=2
+ Block 47 placed at=1
+ Block 48 placed at=2
+ Block 49 placed at=2
+ Block 50 placed at=2
+ Block 51 placed at=0
+ Block 52 placed at=1
+ Block 53 placed at=1
+ Block 54 placed at=0
+ Block 55 placed at=1
+ Block 56 placed at=0
+ Block 57 placed at=2
+ Block 58 placed at=2
+ Block 59 placed at=1
+ Block 60 placed at=0
+ Block 61 placed at=1
+ Block 62 placed at=0
+ Block 63 placed at=2
+ Block 64 placed at=2
+ Block 65 placed at=1
+ Block 66 placed at=1
+ Block 67 placed at=2
+ Block 68 placed at=1
+ Block 69 placed at=1
+ Block 70 placed at=0
+ Block 71 placed at=2
+ Block 72 placed at=1
+ Block 73 placed at=1
+ Block 74 placed at=0
+ Block 75 placed at=0
+ Block 76 placed at=1
+ Block 77 placed at=2
+ Block 78 placed at=1
+ Block 79 placed at=1
+ Block 80 placed at=1
+ Block 81 placed at=0
+ Block 82 placed at=1
+ Block 83 placed at=0
+ Block 84 placed at=0
+ Block 85 placed at=2
+ Block 86 placed at=2
+ Block 87 placed at=2
+ Block 88 placed at=2
+ Block 89 placed at=2
+ Block 90 placed at=2
+ Block 91 placed at=2
+ Block 92 placed at=0
+ Block 93 placed at=0
+ Block 94 placed at=1
+ Block 95 placed at=1
+ Block 96 placed at=1
+ Block 97 placed at=1
+ Block 98 placed at=2
+ Block 99 placed at=0
+
+
+
+At End Total Number of MIV after Compromised FM=1075
+
+ Total Area of all the blocks =179501.000000
+
+ Divergence of tier area from avg area=-0.018245
+ Divergence of tier area from avg area=0.091610
+ Divergence of tier area from avg area=-0.073364
+
+Total area of tiers=179501.000000
+
+
+ TWL Calculated After Compromised FM by COST_LOG=12891770.000000
+
+
+ TWL Calculated After Compromised FM =12891770.000000
+
+***********************************************************************************************
+
+***********************************************************************************************
+ No of Tiers=3	 Relaxation Percentage=0.200000
+ Avg area for each tier=59833.666667
+ Max area for each tier=71800.400178
+ Min area for each tier=47866.933155
+Time Taken to execute Initial Partition:0.021000
+After Initial Partition Total Number of MIV=1075
+Time Taken to execute Compromized FM:0.044000
+
+
+
+ Block 0 placed at=0
+ Block 1 placed at=0
+ Block 2 placed at=0
+ Block 3 placed at=0
+ Block 4 placed at=0
+ Block 5 placed at=0
+ Block 6 placed at=0
+ Block 7 placed at=1
+ Block 8 placed at=0
+ Block 9 placed at=2
+ Block 10 placed at=0
+ Block 11 placed at=2
+ Block 12 placed at=2
+ Block 13 placed at=2
+ Block 14 placed at=1
+ Block 15 placed at=1
+ Block 16 placed at=0
+ Block 17 placed at=0
+ Block 18 placed at=2
+ Block 19 placed at=1
+ Block 20 placed at=0
+ Block 21 placed at=2
+ Block 22 placed at=1
+ Block 23 placed at=2
+ Block 24 placed at=0
+ Block 25 placed at=0
+ Block 26 placed at=0
+ Block 27 placed at=1
+ Block 28 placed at=0
+ Block 29 placed at=0
+ Block 30 placed at=0
+ Block 31 placed at=1
+ Block 32 placed at=0
+ Block 33 placed at=1
+ Block 34 placed at=2
+ Block 35 placed at=2
+ Block 36 placed at=1
+ Block 37 placed at=0
+ Block 38 placed at=2
+ Block 39 placed at=1
+ Block 40 placed at=1
+ Block 41 placed at=0
+ Block 42 placed at=0
+ Block 43 placed at=2
+ Block 44 placed at=2
+ Block 45 placed at=1
+ Block 46 placed at=2
+ Block 47 placed at=1
+ Block 48 placed at=2
+ Block 49 placed at=2
+ Block 50 placed at=2
+ Block 51 placed at=0
+ Block 52 placed at=1
+ Block 53 placed at=1
+ Block 54 placed at=0
+ Block 55 placed at=1
+ Block 56 placed at=0
+ Block 57 placed at=2
+ Block 58 placed at=2
+ Block 59 placed at=1
+ Block 60 placed at=0
+ Block 61 placed at=1
+ Block 62 placed at=0
+ Block 63 placed at=2
+ Block 64 placed at=2
+ Block 65 placed at=1
+ Block 66 placed at=1
+ Block 67 placed at=2
+ Block 68 placed at=1
+ Block 69 placed at=1
+ Block 70 placed at=0
+ Block 71 placed at=2
+ Block 72 placed at=1
+ Block 73 placed at=1
+ Block 74 placed at=0
+ Block 75 placed at=0
+ Block 76 placed at=1
+ Block 77 placed at=2
+ Block 78 placed at=1
+ Block 79 placed at=1
+ Block 80 placed at=1
+ Block 81 placed at=0
+ Block 82 placed at=1
+ Block 83 placed at=0
+ Block 84 placed at=0
+ Block 85 placed at=2
+ Block 86 placed at=2
+ Block 87 placed at=2
+ Block 88 placed at=2
+ Block 89 placed at=2
+ Block 90 placed at=2
+ Block 91 placed at=2
+ Block 92 placed at=0
+ Block 93 placed at=0
+ Block 94 placed at=1
+ Block 95 placed at=1
+ Block 96 placed at=1
+ Block 97 placed at=1
+ Block 98 placed at=2
+ Block 99 placed at=0
+
+
+
+At End Total Number of MIV after Compromised FM=1075
+
+ Total Area of all the blocks =179501.000000
+
+ Divergence of tier area from avg area=-0.018245
+ Divergence of tier area from avg area=0.091610
+ Divergence of tier area from avg area=-0.073364
+
+Total area of tiers=179501.000000
+
+
+ TWL Calculated After Compromised FM by COST_LOG=12891770.000000
+
+
+ TWL Calculated After Compromised FM =12891770.000000
+
+***********************************************************************************************
+
+***********************************************************************************************
+ No of Tiers=3	 Relaxation Percentage=0.250000
+ Avg area for each tier=59833.666667
+ Max area for each tier=74792.083333
+ Min area for each tier=44875.250000
+Time Taken to execute Initial Partition:0.020000
+After Initial Partition Total Number of MIV=1075
+Time Taken to execute Compromized FM:0.043000
+
+
+
+ Block 0 placed at=0
+ Block 1 placed at=0
+ Block 2 placed at=0
+ Block 3 placed at=0
+ Block 4 placed at=0
+ Block 5 placed at=0
+ Block 6 placed at=0
+ Block 7 placed at=1
+ Block 8 placed at=0
+ Block 9 placed at=2
+ Block 10 placed at=0
+ Block 11 placed at=2
+ Block 12 placed at=2
+ Block 13 placed at=2
+ Block 14 placed at=1
+ Block 15 placed at=1
+ Block 16 placed at=0
+ Block 17 placed at=0
+ Block 18 placed at=2
+ Block 19 placed at=1
+ Block 20 placed at=0
+ Block 21 placed at=2
+ Block 22 placed at=1
+ Block 23 placed at=2
+ Block 24 placed at=0
+ Block 25 placed at=0
+ Block 26 placed at=0
+ Block 27 placed at=1
+ Block 28 placed at=0
+ Block 29 placed at=0
+ Block 30 placed at=0
+ Block 31 placed at=1
+ Block 32 placed at=0
+ Block 33 placed at=1
+ Block 34 placed at=2
+ Block 35 placed at=2
+ Block 36 placed at=1
+ Block 37 placed at=0
+ Block 38 placed at=2
+ Block 39 placed at=1
+ Block 40 placed at=1
+ Block 41 placed at=0
+ Block 42 placed at=0
+ Block 43 placed at=2
+ Block 44 placed at=2
+ Block 45 placed at=1
+ Block 46 placed at=2
+ Block 47 placed at=1
+ Block 48 placed at=2
+ Block 49 placed at=2
+ Block 50 placed at=2
+ Block 51 placed at=0
+ Block 52 placed at=1
+ Block 53 placed at=1
+ Block 54 placed at=0
+ Block 55 placed at=1
+ Block 56 placed at=0
+ Block 57 placed at=2
+ Block 58 placed at=2
+ Block 59 placed at=1
+ Block 60 placed at=0
+ Block 61 placed at=1
+ Block 62 placed at=0
+ Block 63 placed at=2
+ Block 64 placed at=2
+ Block 65 placed at=1
+ Block 66 placed at=1
+ Block 67 placed at=2
+ Block 68 placed at=1
+ Block 69 placed at=1
+ Block 70 placed at=0
+ Block 71 placed at=2
+ Block 72 placed at=1
+ Block 73 placed at=1
+ Block 74 placed at=0
+ Block 75 placed at=0
+ Block 76 placed at=1
+ Block 77 placed at=2
+ Block 78 placed at=1
+ Block 79 placed at=1
+ Block 80 placed at=1
+ Block 81 placed at=0
+ Block 82 placed at=1
+ Block 83 placed at=0
+ Block 84 placed at=0
+ Block 85 placed at=2
+ Block 86 placed at=2
+ Block 87 placed at=2
+ Block 88 placed at=2
+ Block 89 placed at=2
+ Block 90 placed at=2
+ Block 91 placed at=2
+ Block 92 placed at=0
+ Block 93 placed at=0
+ Block 94 placed at=1
+ Block 95 placed at=1
+ Block 96 placed at=1
+ Block 97 placed at=1
+ Block 98 placed at=2
+ Block 99 placed at=0
+
+
+
+At End Total Number of MIV after Compromised FM=1075
+
+ Total Area of all the blocks =179501.000000
+
+ Divergence of tier area from avg area=-0.018245
+ Divergence of tier area from avg area=0.091610
+ Divergence of tier area from avg area=-0.073364
+
+Total area of tiers=179501.000000
+
+
+ TWL Calculated After Compromised FM by COST_LOG=12891770.000000
+
+
+ TWL Calculated After Compromised FM =12891770.000000
+
+***********************************************************************************************
+
+***********************************************************************************************
+ No of Tiers=4	 Relaxation Percentage=0.050000
+ Avg area for each tier=44875.250000
+ Max area for each tier=47119.012533
+ Min area for each tier=42631.487467
+Time Taken to execute Initial Partition:0.022000
+After Initial Partition Total Number of MIV=1429
+Time Taken to execute Compromized FM:0.085000
+
+
+
+ Block 0 placed at=0
+ Block 1 placed at=0
+ Block 2 placed at=0
+ Block 3 placed at=0
+ Block 4 placed at=0
+ Block 5 placed at=2
+ Block 6 placed at=2
+ Block 7 placed at=0
+ Block 8 placed at=0
+ Block 9 placed at=1
+ Block 10 placed at=2
+ Block 11 placed at=2
+ Block 12 placed at=1
+ Block 13 placed at=3
+ Block 14 placed at=3
+ Block 15 placed at=1
+ Block 16 placed at=0
+ Block 17 placed at=0
+ Block 18 placed at=1
+ Block 19 placed at=3
+ Block 20 placed at=0
+ Block 21 placed at=1
+ Block 22 placed at=0
+ Block 23 placed at=0
+ Block 24 placed at=2
+ Block 25 placed at=0
+ Block 26 placed at=2
+ Block 27 placed at=3
+ Block 28 placed at=3
+ Block 29 placed at=0
+ Block 30 placed at=0
+ Block 31 placed at=2
+ Block 32 placed at=2
+ Block 33 placed at=2
+ Block 34 placed at=1
+ Block 35 placed at=2
+ Block 36 placed at=3
+ Block 37 placed at=2
+ Block 38 placed at=2
+ Block 39 placed at=1
+ Block 40 placed at=3
+ Block 41 placed at=3
+ Block 42 placed at=3
+ Block 43 placed at=2
+ Block 44 placed at=1
+ Block 45 placed at=0
+ Block 46 placed at=3
+ Block 47 placed at=3
+ Block 48 placed at=1
+ Block 49 placed at=1
+ Block 50 placed at=1
+ Block 51 placed at=2
+ Block 52 placed at=2
+ Block 53 placed at=2
+ Block 54 placed at=3
+ Block 55 placed at=3
+ Block 56 placed at=0
+ Block 57 placed at=2
+ Block 58 placed at=1
+ Block 59 placed at=3
+ Block 60 placed at=0
+ Block 61 placed at=0
+ Block 62 placed at=0
+ Block 63 placed at=2
+ Block 64 placed at=1
+ Block 65 placed at=1
+ Block 66 placed at=3
+ Block 67 placed at=2
+ Block 68 placed at=2
+ Block 69 placed at=3
+ Block 70 placed at=2
+ Block 71 placed at=2
+ Block 72 placed at=1
+ Block 73 placed at=0
+ Block 74 placed at=0
+ Block 75 placed at=3
+ Block 76 placed at=2
+ Block 77 placed at=1
+ Block 78 placed at=1
+ Block 79 placed at=0
+ Block 80 placed at=3
+ Block 81 placed at=3
+ Block 82 placed at=1
+ Block 83 placed at=0
+ Block 84 placed at=2
+ Block 85 placed at=2
+ Block 86 placed at=3
+ Block 87 placed at=0
+ Block 88 placed at=3
+ Block 89 placed at=0
+ Block 90 placed at=0
+ Block 91 placed at=1
+ Block 92 placed at=2
+ Block 93 placed at=0
+ Block 94 placed at=3
+ Block 95 placed at=2
+ Block 96 placed at=3
+ Block 97 placed at=3
+ Block 98 placed at=1
+ Block 99 placed at=2
+
+
+
+At End Total Number of MIV after Compromised FM=1474
+
+ Total Area of all the blocks =179501.000000
+
+ Divergence of tier area from avg area=-0.000340
+ Divergence of tier area from avg area=0.043404
+ Divergence of tier area from avg area=-0.036262
+ Divergence of tier area from avg area=-0.006802
+
+Total area of tiers=179501.000000
+
+
+ TWL Calculated After Compromised FM by COST_LOG=12318820.000000
+
+
+ TWL Calculated After Compromised FM =12318820.000000
+
+***********************************************************************************************
+
+***********************************************************************************************
+ No of Tiers=4	 Relaxation Percentage=0.100000
+ Avg area for each tier=44875.250000
+ Max area for each tier=49362.775067
+ Min area for each tier=40387.724933
+Time Taken to execute Initial Partition:0.021000
+After Initial Partition Total Number of MIV=1429
+Time Taken to execute Compromized FM:0.078000
+
+
+
+ Block 0 placed at=0
+ Block 1 placed at=0
+ Block 2 placed at=0
+ Block 3 placed at=0
+ Block 4 placed at=0
+ Block 5 placed at=2
+ Block 6 placed at=2
+ Block 7 placed at=0
+ Block 8 placed at=0
+ Block 9 placed at=1
+ Block 10 placed at=2
+ Block 11 placed at=2
+ Block 12 placed at=1
+ Block 13 placed at=3
+ Block 14 placed at=3
+ Block 15 placed at=1
+ Block 16 placed at=0
+ Block 17 placed at=0
+ Block 18 placed at=1
+ Block 19 placed at=3
+ Block 20 placed at=0
+ Block 21 placed at=1
+ Block 22 placed at=0
+ Block 23 placed at=0
+ Block 24 placed at=2
+ Block 25 placed at=0
+ Block 26 placed at=2
+ Block 27 placed at=3
+ Block 28 placed at=3
+ Block 29 placed at=0
+ Block 30 placed at=0
+ Block 31 placed at=2
+ Block 32 placed at=2
+ Block 33 placed at=2
+ Block 34 placed at=1
+ Block 35 placed at=2
+ Block 36 placed at=3
+ Block 37 placed at=2
+ Block 38 placed at=2
+ Block 39 placed at=1
+ Block 40 placed at=3
+ Block 41 placed at=3
+ Block 42 placed at=3
+ Block 43 placed at=2
+ Block 44 placed at=1
+ Block 45 placed at=0
+ Block 46 placed at=3
+ Block 47 placed at=3
+ Block 48 placed at=1
+ Block 49 placed at=1
+ Block 50 placed at=1
+ Block 51 placed at=2
+ Block 52 placed at=2
+ Block 53 placed at=2
+ Block 54 placed at=3
+ Block 55 placed at=3
+ Block 56 placed at=0
+ Block 57 placed at=2
+ Block 58 placed at=1
+ Block 59 placed at=3
+ Block 60 placed at=0
+ Block 61 placed at=0
+ Block 62 placed at=0
+ Block 63 placed at=2
+ Block 64 placed at=1
+ Block 65 placed at=1
+ Block 66 placed at=3
+ Block 67 placed at=2
+ Block 68 placed at=1
+ Block 69 placed at=3
+ Block 70 placed at=2
+ Block 71 placed at=2
+ Block 72 placed at=3
+ Block 73 placed at=0
+ Block 74 placed at=0
+ Block 75 placed at=3
+ Block 76 placed at=2
+ Block 77 placed at=1
+ Block 78 placed at=1
+ Block 79 placed at=0
+ Block 80 placed at=3
+ Block 81 placed at=3
+ Block 82 placed at=1
+ Block 83 placed at=0
+ Block 84 placed at=2
+ Block 85 placed at=2
+ Block 86 placed at=3
+ Block 87 placed at=0
+ Block 88 placed at=2
+ Block 89 placed at=1
+ Block 90 placed at=0
+ Block 91 placed at=1
+ Block 92 placed at=2
+ Block 93 placed at=0
+ Block 94 placed at=3
+ Block 95 placed at=2
+ Block 96 placed at=3
+ Block 97 placed at=3
+ Block 98 placed at=1
+ Block 99 placed at=2
+
+
+
+At End Total Number of MIV after Compromised FM=1499
+
+ Total Area of all the blocks =179501.000000
+
+ Divergence of tier area from avg area=-0.023203
+ Divergence of tier area from avg area=0.056351
+ Divergence of tier area from avg area=-0.089476
+ Divergence of tier area from avg area=0.056328
+
+Total area of tiers=179501.000000
+
+
+ TWL Calculated After Compromised FM by COST_LOG=12320970.000000
+
+
+ TWL Calculated After Compromised FM =12320970.000000
+
+***********************************************************************************************
+
+***********************************************************************************************
+ No of Tiers=4	 Relaxation Percentage=0.150000
+ Avg area for each tier=44875.250000
+ Max area for each tier=51606.537767
+ Min area for each tier=38143.962233
+Time Taken to execute Initial Partition:0.021000
+After Initial Partition Total Number of MIV=1429
+Time Taken to execute Compromized FM:0.066000
+
+
+
+ Block 0 placed at=0
+ Block 1 placed at=0
+ Block 2 placed at=0
+ Block 3 placed at=0
+ Block 4 placed at=0
+ Block 5 placed at=2
+ Block 6 placed at=2
+ Block 7 placed at=0
+ Block 8 placed at=0
+ Block 9 placed at=1
+ Block 10 placed at=2
+ Block 11 placed at=2
+ Block 12 placed at=1
+ Block 13 placed at=3
+ Block 14 placed at=3
+ Block 15 placed at=1
+ Block 16 placed at=0
+ Block 17 placed at=0
+ Block 18 placed at=1
+ Block 19 placed at=3
+ Block 20 placed at=0
+ Block 21 placed at=1
+ Block 22 placed at=0
+ Block 23 placed at=0
+ Block 24 placed at=2
+ Block 25 placed at=0
+ Block 26 placed at=2
+ Block 27 placed at=3
+ Block 28 placed at=3
+ Block 29 placed at=0
+ Block 30 placed at=0
+ Block 31 placed at=2
+ Block 32 placed at=0
+ Block 33 placed at=2
+ Block 34 placed at=1
+ Block 35 placed at=2
+ Block 36 placed at=3
+ Block 37 placed at=2
+ Block 38 placed at=2
+ Block 39 placed at=1
+ Block 40 placed at=3
+ Block 41 placed at=3
+ Block 42 placed at=3
+ Block 43 placed at=2
+ Block 44 placed at=1
+ Block 45 placed at=0
+ Block 46 placed at=3
+ Block 47 placed at=3
+ Block 48 placed at=1
+ Block 49 placed at=1
+ Block 50 placed at=1
+ Block 51 placed at=2
+ Block 52 placed at=2
+ Block 53 placed at=2
+ Block 54 placed at=3
+ Block 55 placed at=2
+ Block 56 placed at=0
+ Block 57 placed at=1
+ Block 58 placed at=1
+ Block 59 placed at=3
+ Block 60 placed at=0
+ Block 61 placed at=0
+ Block 62 placed at=0
+ Block 63 placed at=2
+ Block 64 placed at=1
+ Block 65 placed at=1
+ Block 66 placed at=3
+ Block 67 placed at=2
+ Block 68 placed at=1
+ Block 69 placed at=3
+ Block 70 placed at=2
+ Block 71 placed at=2
+ Block 72 placed at=3
+ Block 73 placed at=0
+ Block 74 placed at=0
+ Block 75 placed at=3
+ Block 76 placed at=2
+ Block 77 placed at=1
+ Block 78 placed at=1
+ Block 79 placed at=0
+ Block 80 placed at=3
+ Block 81 placed at=3
+ Block 82 placed at=1
+ Block 83 placed at=0
+ Block 84 placed at=2
+ Block 85 placed at=2
+ Block 86 placed at=3
+ Block 87 placed at=0
+ Block 88 placed at=2
+ Block 89 placed at=1
+ Block 90 placed at=0
+ Block 91 placed at=1
+ Block 92 placed at=2
+ Block 93 placed at=0
+ Block 94 placed at=3
+ Block 95 placed at=2
+ Block 96 placed at=3
+ Block 97 placed at=3
+ Block 98 placed at=1
+ Block 99 placed at=2
+
+
+
+At End Total Number of MIV after Compromised FM=1477
+
+ Total Area of all the blocks =179501.000000
+
+ Divergence of tier area from avg area=0.027582
+ Divergence of tier area from avg area=0.075203
+ Divergence of tier area from avg area=-0.116685
+ Divergence of tier area from avg area=0.013900
+
+Total area of tiers=179501.000000
+
+
+ TWL Calculated After Compromised FM by COST_LOG=12314328.000000
+
+
+ TWL Calculated After Compromised FM =12314328.000000
+
+***********************************************************************************************
+
+***********************************************************************************************
+ No of Tiers=4	 Relaxation Percentage=0.200000
+ Avg area for each tier=44875.250000
+ Max area for each tier=53850.300134
+ Min area for each tier=35900.199866
+Time Taken to execute Initial Partition:0.024000
+After Initial Partition Total Number of MIV=1429
+Time Taken to execute Compromized FM:0.054000
+
+
+
+ Block 0 placed at=0
+ Block 1 placed at=0
+ Block 2 placed at=0
+ Block 3 placed at=0
+ Block 4 placed at=0
+ Block 5 placed at=2
+ Block 6 placed at=2
+ Block 7 placed at=0
+ Block 8 placed at=0
+ Block 9 placed at=1
+ Block 10 placed at=2
+ Block 11 placed at=2
+ Block 12 placed at=1
+ Block 13 placed at=3
+ Block 14 placed at=3
+ Block 15 placed at=1
+ Block 16 placed at=0
+ Block 17 placed at=0
+ Block 18 placed at=1
+ Block 19 placed at=3
+ Block 20 placed at=0
+ Block 21 placed at=1
+ Block 22 placed at=0
+ Block 23 placed at=0
+ Block 24 placed at=2
+ Block 25 placed at=0
+ Block 26 placed at=2
+ Block 27 placed at=3
+ Block 28 placed at=3
+ Block 29 placed at=0
+ Block 30 placed at=0
+ Block 31 placed at=2
+ Block 32 placed at=0
+ Block 33 placed at=2
+ Block 34 placed at=1
+ Block 35 placed at=2
+ Block 36 placed at=3
+ Block 37 placed at=2
+ Block 38 placed at=2
+ Block 39 placed at=1
+ Block 40 placed at=3
+ Block 41 placed at=3
+ Block 42 placed at=3
+ Block 43 placed at=2
+ Block 44 placed at=1
+ Block 45 placed at=0
+ Block 46 placed at=3
+ Block 47 placed at=3
+ Block 48 placed at=1
+ Block 49 placed at=1
+ Block 50 placed at=1
+ Block 51 placed at=2
+ Block 52 placed at=2
+ Block 53 placed at=2
+ Block 54 placed at=3
+ Block 55 placed at=3
+ Block 56 placed at=0
+ Block 57 placed at=1
+ Block 58 placed at=1
+ Block 59 placed at=3
+ Block 60 placed at=0
+ Block 61 placed at=0
+ Block 62 placed at=0
+ Block 63 placed at=2
+ Block 64 placed at=1
+ Block 65 placed at=1
+ Block 66 placed at=3
+ Block 67 placed at=2
+ Block 68 placed at=1
+ Block 69 placed at=3
+ Block 70 placed at=2
+ Block 71 placed at=2
+ Block 72 placed at=1
+ Block 73 placed at=0
+ Block 74 placed at=0
+ Block 75 placed at=3
+ Block 76 placed at=2
+ Block 77 placed at=1
+ Block 78 placed at=1
+ Block 79 placed at=0
+ Block 80 placed at=3
+ Block 81 placed at=3
+ Block 82 placed at=1
+ Block 83 placed at=0
+ Block 84 placed at=0
+ Block 85 placed at=2
+ Block 86 placed at=3
+ Block 87 placed at=0
+ Block 88 placed at=2
+ Block 89 placed at=1
+ Block 90 placed at=0
+ Block 91 placed at=1
+ Block 92 placed at=2
+ Block 93 placed at=0
+ Block 94 placed at=3
+ Block 95 placed at=2
+ Block 96 placed at=3
+ Block 97 placed at=3
+ Block 98 placed at=1
+ Block 99 placed at=2
+
+
+
+At End Total Number of MIV after Compromised FM=1444
+
+ Total Area of all the blocks =179501.000000
+
+ Divergence of tier area from avg area=0.060429
+ Divergence of tier area from avg area=0.158122
+ Divergence of tier area from avg area=-0.191960
+ Divergence of tier area from avg area=-0.026590
+
+Total area of tiers=179501.000000
+
+
+ TWL Calculated After Compromised FM by COST_LOG=12321718.000000
+
+
+ TWL Calculated After Compromised FM =12321718.000000
+
+***********************************************************************************************
+
+***********************************************************************************************
+ No of Tiers=4	 Relaxation Percentage=0.250000
+ Avg area for each tier=44875.250000
+ Max area for each tier=56094.062500
+ Min area for each tier=33656.437500
+Time Taken to execute Initial Partition:0.020000
+After Initial Partition Total Number of MIV=1429
+Time Taken to execute Compromized FM:0.051000
+
+
+
+ Block 0 placed at=0
+ Block 1 placed at=0
+ Block 2 placed at=0
+ Block 3 placed at=0
+ Block 4 placed at=0
+ Block 5 placed at=2
+ Block 6 placed at=2
+ Block 7 placed at=0
+ Block 8 placed at=0
+ Block 9 placed at=1
+ Block 10 placed at=2
+ Block 11 placed at=2
+ Block 12 placed at=1
+ Block 13 placed at=3
+ Block 14 placed at=3
+ Block 15 placed at=1
+ Block 16 placed at=0
+ Block 17 placed at=0
+ Block 18 placed at=1
+ Block 19 placed at=3
+ Block 20 placed at=0
+ Block 21 placed at=1
+ Block 22 placed at=0
+ Block 23 placed at=0
+ Block 24 placed at=2
+ Block 25 placed at=0
+ Block 26 placed at=2
+ Block 27 placed at=3
+ Block 28 placed at=3
+ Block 29 placed at=0
+ Block 30 placed at=0
+ Block 31 placed at=2
+ Block 32 placed at=0
+ Block 33 placed at=2
+ Block 34 placed at=1
+ Block 35 placed at=2
+ Block 36 placed at=1
+ Block 37 placed at=2
+ Block 38 placed at=2
+ Block 39 placed at=1
+ Block 40 placed at=3
+ Block 41 placed at=3
+ Block 42 placed at=3
+ Block 43 placed at=2
+ Block 44 placed at=1
+ Block 45 placed at=0
+ Block 46 placed at=3
+ Block 47 placed at=3
+ Block 48 placed at=1
+ Block 49 placed at=1
+ Block 50 placed at=1
+ Block 51 placed at=2
+ Block 52 placed at=2
+ Block 53 placed at=2
+ Block 54 placed at=3
+ Block 55 placed at=3
+ Block 56 placed at=0
+ Block 57 placed at=1
+ Block 58 placed at=1
+ Block 59 placed at=3
+ Block 60 placed at=0
+ Block 61 placed at=0
+ Block 62 placed at=0
+ Block 63 placed at=2
+ Block 64 placed at=1
+ Block 65 placed at=1
+ Block 66 placed at=3
+ Block 67 placed at=2
+ Block 68 placed at=1
+ Block 69 placed at=3
+ Block 70 placed at=2
+ Block 71 placed at=2
+ Block 72 placed at=1
+ Block 73 placed at=0
+ Block 74 placed at=0
+ Block 75 placed at=3
+ Block 76 placed at=2
+ Block 77 placed at=1
+ Block 78 placed at=1
+ Block 79 placed at=0
+ Block 80 placed at=3
+ Block 81 placed at=3
+ Block 82 placed at=1
+ Block 83 placed at=0
+ Block 84 placed at=0
+ Block 85 placed at=2
+ Block 86 placed at=3
+ Block 87 placed at=0
+ Block 88 placed at=2
+ Block 89 placed at=1
+ Block 90 placed at=0
+ Block 91 placed at=1
+ Block 92 placed at=2
+ Block 93 placed at=0
+ Block 94 placed at=3
+ Block 95 placed at=2
+ Block 96 placed at=3
+ Block 97 placed at=3
+ Block 98 placed at=1
+ Block 99 placed at=2
+
+
+
+At End Total Number of MIV after Compromised FM=1432
+
+ Total Area of all the blocks =179501.000000
+
+ Divergence of tier area from avg area=0.060429
+ Divergence of tier area from avg area=0.216350
+ Divergence of tier area from avg area=-0.191960
+ Divergence of tier area from avg area=-0.084818
+
+Total area of tiers=179501.000000
+
+
+ TWL Calculated After Compromised FM by COST_LOG=12334014.000000
+
+
+ TWL Calculated After Compromised FM =12334014.000000
+
+***********************************************************************************************
+
+***********************************************************************************************
+ No of Tiers=5	 Relaxation Percentage=0.050000
+ Avg area for each tier=35900.200000
+ Max area for each tier=37695.210027
+ Min area for each tier=34105.189973
+Time Taken to execute Initial Partition:0.021000
+After Initial Partition Total Number of MIV=1724
+Time Taken to execute Compromized FM:0.123000
+
+
+
+ Block 0 placed at=4
+ Block 1 placed at=0
+ Block 2 placed at=0
+ Block 3 placed at=3
+ Block 4 placed at=4
+ Block 5 placed at=4
+ Block 6 placed at=2
+ Block 7 placed at=2
+ Block 8 placed at=0
+ Block 9 placed at=4
+ Block 10 placed at=2
+ Block 11 placed at=2
+ Block 12 placed at=1
+ Block 13 placed at=3
+ Block 14 placed at=3
+ Block 15 placed at=1
+ Block 16 placed at=0
+ Block 17 placed at=0
+ Block 18 placed at=3
+ Block 19 placed at=4
+ Block 20 placed at=0
+ Block 21 placed at=4
+ Block 22 placed at=0
+ Block 23 placed at=0
+ Block 24 placed at=2
+ Block 25 placed at=0
+ Block 26 placed at=2
+ Block 27 placed at=3
+ Block 28 placed at=3
+ Block 29 placed at=0
+ Block 30 placed at=3
+ Block 31 placed at=2
+ Block 32 placed at=3
+ Block 33 placed at=3
+ Block 34 placed at=1
+ Block 35 placed at=2
+ Block 36 placed at=4
+ Block 37 placed at=2
+ Block 38 placed at=2
+ Block 39 placed at=1
+ Block 40 placed at=1
+ Block 41 placed at=3
+ Block 42 placed at=3
+ Block 43 placed at=2
+ Block 44 placed at=1
+ Block 45 placed at=0
+ Block 46 placed at=3
+ Block 47 placed at=3
+ Block 48 placed at=1
+ Block 49 placed at=1
+ Block 50 placed at=3
+ Block 51 placed at=4
+ Block 52 placed at=2
+ Block 53 placed at=4
+ Block 54 placed at=3
+ Block 55 placed at=4
+ Block 56 placed at=0
+ Block 57 placed at=1
+ Block 58 placed at=2
+ Block 59 placed at=3
+ Block 60 placed at=0
+ Block 61 placed at=0
+ Block 62 placed at=0
+ Block 63 placed at=4
+ Block 64 placed at=1
+ Block 65 placed at=1
+ Block 66 placed at=1
+ Block 67 placed at=4
+ Block 68 placed at=2
+ Block 69 placed at=1
+ Block 70 placed at=2
+ Block 71 placed at=4
+ Block 72 placed at=1
+ Block 73 placed at=0
+ Block 74 placed at=3
+ Block 75 placed at=4
+ Block 76 placed at=2
+ Block 77 placed at=4
+ Block 78 placed at=4
+ Block 79 placed at=0
+ Block 80 placed at=3
+ Block 81 placed at=0
+ Block 82 placed at=2
+ Block 83 placed at=4
+ Block 84 placed at=0
+ Block 85 placed at=2
+ Block 86 placed at=1
+ Block 87 placed at=2
+ Block 88 placed at=2
+ Block 89 placed at=4
+ Block 90 placed at=4
+ Block 91 placed at=3
+ Block 92 placed at=2
+ Block 93 placed at=0
+ Block 94 placed at=4
+ Block 95 placed at=4
+ Block 96 placed at=4
+ Block 97 placed at=4
+ Block 98 placed at=1
+ Block 99 placed at=2
+
+
+
+At End Total Number of MIV after Compromised FM=1894
+
+ Total Area of all the blocks =179501.000000
+
+ Divergence of tier area from avg area=0.014033
+ Divergence of tier area from avg area=0.019131
+ Divergence of tier area from avg area=-0.028724
+ Divergence of tier area from avg area=-0.033376
+ Divergence of tier area from avg area=0.028936
+
+Total area of tiers=179501.000000
+
+
+ TWL Calculated After Compromised FM by COST_LOG=11995656.000000
+
+
+ TWL Calculated After Compromised FM =11995656.000000
+
+***********************************************************************************************
+
+***********************************************************************************************
+ No of Tiers=5	 Relaxation Percentage=0.100000
+ Avg area for each tier=35900.200000
+ Max area for each tier=39490.220053
+ Min area for each tier=32310.179947
+Time Taken to execute Initial Partition:0.021000
+After Initial Partition Total Number of MIV=1724
+Time Taken to execute Compromized FM:0.141000
+
+
+
+ Block 0 placed at=4
+ Block 1 placed at=0
+ Block 2 placed at=0
+ Block 3 placed at=3
+ Block 4 placed at=4
+ Block 5 placed at=4
+ Block 6 placed at=2
+ Block 7 placed at=2
+ Block 8 placed at=0
+ Block 9 placed at=4
+ Block 10 placed at=2
+ Block 11 placed at=2
+ Block 12 placed at=1
+ Block 13 placed at=3
+ Block 14 placed at=3
+ Block 15 placed at=1
+ Block 16 placed at=0
+ Block 17 placed at=0
+ Block 18 placed at=3
+ Block 19 placed at=1
+ Block 20 placed at=0
+ Block 21 placed at=4
+ Block 22 placed at=0
+ Block 23 placed at=0
+ Block 24 placed at=2
+ Block 25 placed at=0
+ Block 26 placed at=2
+ Block 27 placed at=3
+ Block 28 placed at=3
+ Block 29 placed at=0
+ Block 30 placed at=3
+ Block 31 placed at=2
+ Block 32 placed at=3
+ Block 33 placed at=4
+ Block 34 placed at=4
+ Block 35 placed at=2
+ Block 36 placed at=4
+ Block 37 placed at=2
+ Block 38 placed at=2
+ Block 39 placed at=1
+ Block 40 placed at=1
+ Block 41 placed at=3
+ Block 42 placed at=3
+ Block 43 placed at=2
+ Block 44 placed at=1
+ Block 45 placed at=0
+ Block 46 placed at=3
+ Block 47 placed at=3
+ Block 48 placed at=1
+ Block 49 placed at=1
+ Block 50 placed at=3
+ Block 51 placed at=4
+ Block 52 placed at=2
+ Block 53 placed at=4
+ Block 54 placed at=3
+ Block 55 placed at=4
+ Block 56 placed at=0
+ Block 57 placed at=1
+ Block 58 placed at=2
+ Block 59 placed at=3
+ Block 60 placed at=0
+ Block 61 placed at=0
+ Block 62 placed at=0
+ Block 63 placed at=4
+ Block 64 placed at=1
+ Block 65 placed at=4
+ Block 66 placed at=1
+ Block 67 placed at=4
+ Block 68 placed at=1
+ Block 69 placed at=1
+ Block 70 placed at=2
+ Block 71 placed at=2
+ Block 72 placed at=1
+ Block 73 placed at=0
+ Block 74 placed at=0
+ Block 75 placed at=4
+ Block 76 placed at=2
+ Block 77 placed at=4
+ Block 78 placed at=4
+ Block 79 placed at=0
+ Block 80 placed at=3
+ Block 81 placed at=0
+ Block 82 placed at=2
+ Block 83 placed at=4
+ Block 84 placed at=0
+ Block 85 placed at=2
+ Block 86 placed at=1
+ Block 87 placed at=2
+ Block 88 placed at=2
+ Block 89 placed at=4
+ Block 90 placed at=4
+ Block 91 placed at=3
+ Block 92 placed at=2
+ Block 93 placed at=0
+ Block 94 placed at=4
+ Block 95 placed at=4
+ Block 96 placed at=4
+ Block 97 placed at=4
+ Block 98 placed at=1
+ Block 99 placed at=2
+
+
+
+At End Total Number of MIV after Compromised FM=1894
+
+ Total Area of all the blocks =179501.000000
+
+ Divergence of tier area from avg area=0.058490
+ Divergence of tier area from avg area=0.024033
+ Divergence of tier area from avg area=-0.080757
+ Divergence of tier area from avg area=-0.099281
+ Divergence of tier area from avg area=0.097515
+
+Total area of tiers=179501.000000
+
+
+ TWL Calculated After Compromised FM by COST_LOG=12014448.000000
+
+
+ TWL Calculated After Compromised FM =12014448.000000
+
+***********************************************************************************************
+
+***********************************************************************************************
+ No of Tiers=5	 Relaxation Percentage=0.150000
+ Avg area for each tier=35900.200000
+ Max area for each tier=41285.230214
+ Min area for each tier=30515.169786
+Time Taken to execute Initial Partition:0.020000
+After Initial Partition Total Number of MIV=1724
+Time Taken to execute Compromized FM:0.109000
+
+
+
+ Block 0 placed at=4
+ Block 1 placed at=0
+ Block 2 placed at=0
+ Block 3 placed at=3
+ Block 4 placed at=4
+ Block 5 placed at=4
+ Block 6 placed at=2
+ Block 7 placed at=2
+ Block 8 placed at=0
+ Block 9 placed at=4
+ Block 10 placed at=2
+ Block 11 placed at=2
+ Block 12 placed at=1
+ Block 13 placed at=3
+ Block 14 placed at=3
+ Block 15 placed at=1
+ Block 16 placed at=0
+ Block 17 placed at=0
+ Block 18 placed at=3
+ Block 19 placed at=1
+ Block 20 placed at=0
+ Block 21 placed at=4
+ Block 22 placed at=0
+ Block 23 placed at=0
+ Block 24 placed at=2
+ Block 25 placed at=0
+ Block 26 placed at=2
+ Block 27 placed at=3
+ Block 28 placed at=3
+ Block 29 placed at=0
+ Block 30 placed at=3
+ Block 31 placed at=2
+ Block 32 placed at=0
+ Block 33 placed at=3
+ Block 34 placed at=4
+ Block 35 placed at=2
+ Block 36 placed at=4
+ Block 37 placed at=2
+ Block 38 placed at=2
+ Block 39 placed at=1
+ Block 40 placed at=1
+ Block 41 placed at=3
+ Block 42 placed at=3
+ Block 43 placed at=2
+ Block 44 placed at=1
+ Block 45 placed at=0
+ Block 46 placed at=3
+ Block 47 placed at=3
+ Block 48 placed at=1
+ Block 49 placed at=1
+ Block 50 placed at=3
+ Block 51 placed at=4
+ Block 52 placed at=2
+ Block 53 placed at=4
+ Block 54 placed at=3
+ Block 55 placed at=4
+ Block 56 placed at=0
+ Block 57 placed at=1
+ Block 58 placed at=1
+ Block 59 placed at=3
+ Block 60 placed at=0
+ Block 61 placed at=0
+ Block 62 placed at=0
+ Block 63 placed at=4
+ Block 64 placed at=1
+ Block 65 placed at=4
+ Block 66 placed at=1
+ Block 67 placed at=4
+ Block 68 placed at=1
+ Block 69 placed at=1
+ Block 70 placed at=2
+ Block 71 placed at=2
+ Block 72 placed at=1
+ Block 73 placed at=0
+ Block 74 placed at=0
+ Block 75 placed at=4
+ Block 76 placed at=2
+ Block 77 placed at=4
+ Block 78 placed at=4
+ Block 79 placed at=0
+ Block 80 placed at=3
+ Block 81 placed at=0
+ Block 82 placed at=2
+ Block 83 placed at=4
+ Block 84 placed at=0
+ Block 85 placed at=2
+ Block 86 placed at=1
+ Block 87 placed at=2
+ Block 88 placed at=2
+ Block 89 placed at=4
+ Block 90 placed at=4
+ Block 91 placed at=3
+ Block 92 placed at=2
+ Block 93 placed at=0
+ Block 94 placed at=4
+ Block 95 placed at=4
+ Block 96 placed at=4
+ Block 97 placed at=4
+ Block 98 placed at=1
+ Block 99 placed at=2
+
+
+
+At End Total Number of MIV after Compromised FM=1866
+
+ Total Area of all the blocks =179501.000000
+
+ Divergence of tier area from avg area=0.121971
+ Divergence of tier area from avg area=0.067599
+ Divergence of tier area from avg area=-0.124322
+ Divergence of tier area from avg area=-0.141314
+ Divergence of tier area from avg area=0.076066
+
+Total area of tiers=179501.000000
+
+
+ TWL Calculated After Compromised FM by COST_LOG=12007704.000000
+
+
+ TWL Calculated After Compromised FM =12007704.000000
+
+***********************************************************************************************
+
+***********************************************************************************************
+ No of Tiers=5	 Relaxation Percentage=0.200000
+ Avg area for each tier=35900.200000
+ Max area for each tier=43080.240107
+ Min area for each tier=28720.159893
+Time Taken to execute Initial Partition:0.022000
+After Initial Partition Total Number of MIV=1724
+Time Taken to execute Compromized FM:0.094000
+
+
+
+ Block 0 placed at=0
+ Block 1 placed at=0
+ Block 2 placed at=0
+ Block 3 placed at=3
+ Block 4 placed at=0
+ Block 5 placed at=4
+ Block 6 placed at=2
+ Block 7 placed at=2
+ Block 8 placed at=0
+ Block 9 placed at=4
+ Block 10 placed at=2
+ Block 11 placed at=2
+ Block 12 placed at=1
+ Block 13 placed at=3
+ Block 14 placed at=3
+ Block 15 placed at=1
+ Block 16 placed at=0
+ Block 17 placed at=0
+ Block 18 placed at=3
+ Block 19 placed at=4
+ Block 20 placed at=0
+ Block 21 placed at=4
+ Block 22 placed at=0
+ Block 23 placed at=0
+ Block 24 placed at=2
+ Block 25 placed at=0
+ Block 26 placed at=2
+ Block 27 placed at=3
+ Block 28 placed at=3
+ Block 29 placed at=0
+ Block 30 placed at=3
+ Block 31 placed at=2
+ Block 32 placed at=0
+ Block 33 placed at=3
+ Block 34 placed at=1
+ Block 35 placed at=2
+ Block 36 placed at=4
+ Block 37 placed at=2
+ Block 38 placed at=2
+ Block 39 placed at=1
+ Block 40 placed at=1
+ Block 41 placed at=3
+ Block 42 placed at=3
+ Block 43 placed at=2
+ Block 44 placed at=1
+ Block 45 placed at=0
+ Block 46 placed at=3
+ Block 47 placed at=3
+ Block 48 placed at=1
+ Block 49 placed at=1
+ Block 50 placed at=3
+ Block 51 placed at=4
+ Block 52 placed at=2
+ Block 53 placed at=4
+ Block 54 placed at=3
+ Block 55 placed at=4
+ Block 56 placed at=0
+ Block 57 placed at=1
+ Block 58 placed at=1
+ Block 59 placed at=3
+ Block 60 placed at=0
+ Block 61 placed at=0
+ Block 62 placed at=0
+ Block 63 placed at=4
+ Block 64 placed at=1
+ Block 65 placed at=1
+ Block 66 placed at=1
+ Block 67 placed at=4
+ Block 68 placed at=1
+ Block 69 placed at=1
+ Block 70 placed at=2
+ Block 71 placed at=2
+ Block 72 placed at=1
+ Block 73 placed at=0
+ Block 74 placed at=0
+ Block 75 placed at=4
+ Block 76 placed at=2
+ Block 77 placed at=4
+ Block 78 placed at=4
+ Block 79 placed at=0
+ Block 80 placed at=3
+ Block 81 placed at=0
+ Block 82 placed at=3
+ Block 83 placed at=4
+ Block 84 placed at=0
+ Block 85 placed at=2
+ Block 86 placed at=1
+ Block 87 placed at=2
+ Block 88 placed at=2
+ Block 89 placed at=1
+ Block 90 placed at=4
+ Block 91 placed at=3
+ Block 92 placed at=2
+ Block 93 placed at=0
+ Block 94 placed at=4
+ Block 95 placed at=4
+ Block 96 placed at=4
+ Block 97 placed at=4
+ Block 98 placed at=1
+ Block 99 placed at=2
+
+
+
+At End Total Number of MIV after Compromised FM=1771
+
+ Total Area of all the blocks =179501.000000
+
+ Divergence of tier area from avg area=0.176846
+ Divergence of tier area from avg area=0.182528
+ Divergence of tier area from avg area=-0.198946
+ Divergence of tier area from avg area=-0.066690
+ Divergence of tier area from avg area=-0.093738
+
+Total area of tiers=179501.000000
+
+
+ TWL Calculated After Compromised FM by COST_LOG=11970278.000000
+
+
+ TWL Calculated After Compromised FM =11970278.000000
+
+***********************************************************************************************
+
+***********************************************************************************************
+ No of Tiers=5	 Relaxation Percentage=0.250000
+ Avg area for each tier=35900.200000
+ Max area for each tier=44875.250000
+ Min area for each tier=26925.150000
+Time Taken to execute Initial Partition:0.022000
+After Initial Partition Total Number of MIV=1724
+Time Taken to execute Compromized FM:0.092000
+
+
+
+ Block 0 placed at=0
+ Block 1 placed at=0
+ Block 2 placed at=0
+ Block 3 placed at=0
+ Block 4 placed at=4
+ Block 5 placed at=4
+ Block 6 placed at=2
+ Block 7 placed at=2
+ Block 8 placed at=0
+ Block 9 placed at=4
+ Block 10 placed at=2
+ Block 11 placed at=2
+ Block 12 placed at=1
+ Block 13 placed at=3
+ Block 14 placed at=3
+ Block 15 placed at=1
+ Block 16 placed at=0
+ Block 17 placed at=0
+ Block 18 placed at=3
+ Block 19 placed at=1
+ Block 20 placed at=0
+ Block 21 placed at=4
+ Block 22 placed at=0
+ Block 23 placed at=0
+ Block 24 placed at=2
+ Block 25 placed at=0
+ Block 26 placed at=2
+ Block 27 placed at=3
+ Block 28 placed at=3
+ Block 29 placed at=0
+ Block 30 placed at=0
+ Block 31 placed at=2
+ Block 32 placed at=0
+ Block 33 placed at=3
+ Block 34 placed at=1
+ Block 35 placed at=2
+ Block 36 placed at=4
+ Block 37 placed at=2
+ Block 38 placed at=2
+ Block 39 placed at=1
+ Block 40 placed at=1
+ Block 41 placed at=3
+ Block 42 placed at=3
+ Block 43 placed at=2
+ Block 44 placed at=1
+ Block 45 placed at=0
+ Block 46 placed at=3
+ Block 47 placed at=3
+ Block 48 placed at=1
+ Block 49 placed at=1
+ Block 50 placed at=3
+ Block 51 placed at=4
+ Block 52 placed at=2
+ Block 53 placed at=4
+ Block 54 placed at=3
+ Block 55 placed at=4
+ Block 56 placed at=0
+ Block 57 placed at=1
+ Block 58 placed at=1
+ Block 59 placed at=3
+ Block 60 placed at=0
+ Block 61 placed at=0
+ Block 62 placed at=0
+ Block 63 placed at=4
+ Block 64 placed at=1
+ Block 65 placed at=1
+ Block 66 placed at=1
+ Block 67 placed at=4
+ Block 68 placed at=1
+ Block 69 placed at=1
+ Block 70 placed at=2
+ Block 71 placed at=2
+ Block 72 placed at=1
+ Block 73 placed at=0
+ Block 74 placed at=0
+ Block 75 placed at=4
+ Block 76 placed at=2
+ Block 77 placed at=4
+ Block 78 placed at=4
+ Block 79 placed
