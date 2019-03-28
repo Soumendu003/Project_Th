@@ -31,12 +31,20 @@ def Driver(benchmark,NoOfTiers,relaxation):
     
     avg_area,Max_area,Min_area=CalculateAreaConstraints(Blocks,relaxation)
     
+    avg_area/=NoOfTiers
+    
     Tiers=Tier.Tier.createTier(NoOfTiers,avg_area,Max_area,Min_area)
     
     file=benchmark+"_final.txt"
     
+    Weightages=[[0.75,1],[0.6,0.8,1],[0.5,0.7,0.85,1]]
+    
     start=time.time()
     CMFM.ReadCMFM(file,Blocks,Tiers,NoOfTiers,relaxation)
+    CMFM.ShiftTiers(Blocks,Tiers)
+    
+    CMFM.ThermallyOptimizeTiers(Blocks,Nets,Tiers,Weightages[NoOfTiers-2])
+    
     end=time.time()
     print("time taken for Initial Partition: "+str((end-start)*1000)+"ms")
 

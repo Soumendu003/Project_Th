@@ -13,6 +13,7 @@ class Tier:
         self.max_Area=max_Area
         self.min_Area=min_Area
         self.placedBlocks=set()
+        self.totalPower=0
         
     def createTier(NoOfTier,avg_Area,max_Area,min_Area):
         tier_list=[]

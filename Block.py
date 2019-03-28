@@ -11,6 +11,7 @@ class Block:
     def __init__(self):
         self.connectedBlocks=dict()
         self.tier=None
+        self.totalPower=0
         
     def linkNet(bk_obj,net):
         bk_obj.connectedNets.append(net)
@@ -36,6 +37,7 @@ class Block:
             if(len(token)>0):
                 val=float(token[0][:])
                 Bk_list[index].power=val
+                Bk_list[index].totalPower=val*((Bk_list[index].length+Bk_list[index].width)**2)
                 index+=1
         
     def getBlock(Bk_list,index,start,last):
@@ -66,6 +68,7 @@ class SoftBlock(Block):
         self.length=self.width=math.sqrt(area)
         self.connectedNets=[]
         self.power=0
+        self.perimeter=self.length+self.width
         super().__init__()
         
     def readblocks(file_name):
@@ -97,6 +100,7 @@ class HardBlock(Block):
         self.width=width
         self.connectedNets=[]
         self.power=0
+        self.perimeter=self.length+self.width
         super().__init__()
     
     def readblocks(file_name):

@@ -22,7 +22,7 @@ class Net:
         lines=f.readlines()
         flag=0
         lst=[]
-        count=1
+        count=-1
         netdegree=0
         net_list=[]
         for line in lines:
