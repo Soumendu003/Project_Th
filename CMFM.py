@@ -77,12 +77,17 @@ def CalculateTE(TE,Blocks,Tiers,Weightage,PowerArray,SumPower):
             if(j!=Blocks[i].tier.index):
                 PowerArray[j]+=Weightage[j]*Blocks[i].totalPower
                 PowerArray[Blocks[i].tier.index]-=Weightage[j]*Blocks[i].totalPower
+                SumPower+=Weightage[j]*Blocks[i].totalPower
+                SumPower-=Weightage[Blocks[i].tier.index]*Blocks[i].totalPower
                 
                 for v in PowerArray:
-                    entropy+=(-1*(v/SumPower)*(math.log((v/SumPower))/math.log(NoOfTiers)))
+                    if(v>0):
+                        entropy+=(-1*(v/SumPower)*(math.log((v/SumPower))/math.log(NoOfTiers)))
                     
                 PowerArray[j]-=Weightage[j]*Blocks[i].totalPower
                 PowerArray[Blocks[i].tier.index]+=Weightage[j]*Blocks[i].totalPower
+                SumPower-=Weightage[j]*Blocks[i].totalPower
+                SumPower+=Weightage[Blocks[i].tier.index]*Blocks[i].totalPower
                 
             else:
                 entropy=CurrentEntropy
@@ -127,7 +132,10 @@ def CalculateGW(GW,PN,Blocks,Nets,Tiers):
                     entropy+=DefaultEntropy[net.index]
                 Gain+=entropy
             GW[i][k]=Gain/count
-        
+    
+    for i in range(0,len(Blocks)):
+        for j in range(0,NoOfTiers):
+            GW[i][k]-=GW[i][Blocks[i].tier.index]
 
 def CalculatePN(PN,Blocks,Nets,Tiers):
     
@@ -155,12 +163,9 @@ def ThermalCMFM(Blocks,Nets,Tiers,Weightage):
     PN=np.array(PN,dtype='float')
     TG=[[float(0) for i in range(0,len(Tiers))] for j in range(0,len(Blocks))]
     TG=np.array(TG,dtype='float')
-    Val=[]
-    for tier in Tiers:
-        Val.append(tier.totalPower*Weightage[tier.index])
-    SumVal=sum(Val)
     state=1
     while(state==1):
+        SumVal,Val=getPowers(Blocks,Tiers,Weightage)
         CalculateTE(TE,Blocks,Tiers,Weightage,Val,SumVal)
         CalculatePN(PN,Blocks,Nets,Tiers)
         CalculateGW(GW,PN,Blocks,Nets,Tiers)
@@ -174,7 +179,7 @@ def ThermalCMFM(Blocks,Nets,Tiers,Weightage):
         else:
             state=0
 
-def getPowers(Blocks,Tiers):
+def getPowers(Blocks,Tiers,Weightage,print_ori=0):
     val=[]
     for i in range(len(Tiers)):
         val.append(0)
@@ -182,9 +187,14 @@ def getPowers(Blocks,Tiers):
     for block in Blocks:
         val[block.tier.index]+=block.totalPower
     
+    if(print_ori==1):
+        print(val)
     for i in range(len(Tiers)):
         Tiers[i].totalPower=val[i]
-    print(val)
+    for tier in Tiers:
+        val[tier.index]*=Weightage[tier.index]
+    SumVal=sum(val)
+    return SumVal,val
 
 def getDivergence(Blocks,Tiers):
     
@@ -199,11 +209,11 @@ def getDivergence(Blocks,Tiers):
 
 def ThermallyOptimizeTiers(Blocks,Nets,Tiers,Weightage):
     ShiftTiers(Blocks,Tiers)
-    getPowers(Blocks,Tiers)
+    getPowers(Blocks,Tiers,Weightage,print_ori=1)
     print("Initial Thermal Entropy = "+str(CalculateDistributedThermalEntropy(Blocks,Tiers,Weightage)))
     getDivergence(Blocks,Tiers)
     ThermalCMFM(Blocks,Nets,Tiers,Weightage)
-    getPowers(Blocks,Tiers)
+    getPowers(Blocks,Tiers,Weightage,print_ori=1)
     print("Final Thermal Entropy = "+str(CalculateDistributedThermalEntropy(Blocks,Tiers,Weightage)))
     getDivergence(Blocks,Tiers)
     

@@ -13,7 +13,7 @@ import Driver
 benchmarks=['ami33','ami49','n100','n200','n300'];
 tiers=[2,3,4]
 
-B,N,T=Driver.Driver(benchmarks[4],tiers[0],0.05)
+B,N,T=Driver.Driver(benchmarks[1],tiers[2],0.05)
 
 
 
